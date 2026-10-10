@@ -1,0 +1,6 @@
+{
+  "versionCode": 6,
+  "versionName": "0.2.4",
+  "apkUrl": "localcast-tv-0.2.4.apk",
+  "notes": "Correction : le projecteur ne se met plus en veille quand les épisodes s'enchaînent."
+}
